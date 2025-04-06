@@ -6,10 +6,10 @@ Scr![Screenshot_20250406-230102](https://github.com/user-attachments/assets/edc6
 eenshots
 
 
-#  Installation
+Installation
 To get started with this Flutter UI design, follow the steps below:
 
-#  Prerequisites
+Prerequisites
 Make sure you have the following installed on your machine:
 
 Flutter
@@ -20,22 +20,26 @@ An IDE (like Visual Studio Code or Android Studio)
 
 Step-by-Step Setup
 Clone the repository to your local machine:
+
 bash
 Copy
 git clone https://github.com/osemaoje/payLaterUI.git
 Navigate to the project directory:
+
 bash
 Copy
 cd new_flutter_ui_task
 Install dependencies:
+
 bash
 Copy
 flutter pub get
 Run the app:
+
 bash
 Copy
 flutter run
-Run on a specific platform
+Run on a Specific Platform
 To run the app on a specific platform, use one of the following commands:
 
 For Android:
@@ -51,7 +55,7 @@ flutter run --ios
 Project Structure
 Here’s a brief overview of the project structure:
 
-bash
+arduino
 Copy
 flutter-ui-design/
 │
@@ -69,4 +73,4 @@ flutter-ui-design/
 ├── pubspec.yaml
 └── README.md
 Modifications
-I made a modification to the app's search bar width for better experience. 
+I made a modification to the app's search bar width for a better user experience. The search bar has been adjusted for improved usability and a more consistent look across different screen sizes.
