@@ -1,4 +1,5 @@
-# new_flutter_ui_task
+# Welcome to the Pay Later UI Task
+Done by Elimimian Osemaoje Olusegun
 
 Scr![Screenshot_20250406-230102](https://github.com/user-attachments/assets/edc6b8c3-d9cd-46c6-aae9-73337bd13fd2)
 ![Screenshot_20250406-230700](https://github.com/user-attachments/assets/5498b541-37c4-4f13-804e-ee881244c664)
@@ -59,18 +60,18 @@ Copy
 flutter-ui-design/
 │
 ├── assets/
-│   └── images/               
-│   └── fonts/               
-│   └── icons/                
+│   └── images/
+│   └── fonts/
+│   └── icons/
 │
 ├── lib/
 │   ├── main.dart
-|   ├── colors.dart            
-│   ├── home/                 
-│   └── widgets/             
+|   ├── colors.dart
+│   ├── home/      
+│   └── widgets/
 │
-├── pubspec.yaml              # Contains app dependencies
-└── README.md                 # This file
+├── pubspec.yaml
+└── README.md
 
 # Modifications
 Had to modify the apps search bar a bit.
