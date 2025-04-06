@@ -1,16 +1,76 @@
 # new_flutter_ui_task
 
-A new Flutter project.
+Scr![Screenshot_20250406-230102](https://github.com/user-attachments/assets/edc6b8c3-d9cd-46c6-aae9-73337bd13fd2)
+![Screenshot_20250406-230700](https://github.com/user-attachments/assets/5498b541-37c4-4f13-804e-ee881244c664)
+eenshots
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Installation
+To get started with this Flutter UI design, follow the steps below:
 
-A few resources to get you started if this is your first Flutter project:
+# Prerequisites
+Make sure you have the following installed on your machine:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart
+
+An IDE (like Visual Studio Code or Android Studio)
+
+Step-by-Step Setup
+Clone the repository to your local machine:
+
+bash
+Copy
+git clone https://github.com/osemaoje/payLaterUI.git
+Navigate to the project directory:
+
+bash
+Copy
+cd new_flutter_ui_task
+Install dependencies:
+
+bash
+Copy
+flutter pub get
+Run the app:
+
+bash
+Copy
+flutter run
+Run on a specific platform
+To run the app on a specific platform, use one of the following commands:
+
+For Android:
+
+bash
+Copy
+flutter run --android
+For iOS:
+
+bash
+Copy
+flutter run --ios
+Project Structure
+Here’s a brief overview of the project structure:
+
+bash
+Copy
+flutter-ui-design/
+│
+├── assets/
+│   └── images/               
+│   └── fonts/               
+│   └── icons/                
+│
+├── lib/
+│   ├── main.dart
+|   ├── colors.dart            
+│   ├── home/                 
+│   └── widgets/             
+│
+├── pubspec.yaml              # Contains app dependencies
+└── README.md                 # This file
+
+# Modifications
+Had to modify the apps search bar a bit.
