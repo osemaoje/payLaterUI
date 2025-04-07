@@ -6,10 +6,11 @@ Scr![Screenshot_20250406-230102](https://github.com/user-attachments/assets/edc6
 eenshots
 
 
-Installation
+### Installation
+
 To get started with this Flutter UI design, follow the steps below:
 
-Prerequisites
+### Prerequisites
 Make sure you have the following installed on your machine:
 
 Flutter
@@ -18,55 +19,49 @@ Dart
 
 An IDE (like Visual Studio Code or Android Studio)
 
-Step-by-Step Setup
+### Step-by-Step Setup
+
 Clone the repository to your local machine:
+
 
 git clone https://github.com/osemaoje/payLaterUI.git
 
 
 Navigate to the project directory:
 
-
-Copy
 cd new_flutter_ui_task
-Install dependencies:
 
 
-Copy
+### Install dependencies:
+
+
 flutter pub get
 Run the app:
 
 
-Copy
 flutter run
-Run on a Specific Platform
+
+### Run on a Specific Platform
 To run the app on a specific platform, use one of the following commands:
 
 For Android:
 
 
-Copy
-flutter run --android
-For iOS:
 
-
-Copy
-flutter run --ios
+flutter run 
 Project Structure
+
 Here’s a brief overview of the project structure:
 
-arduino
-Copy
+
+
 flutter-ui-design/
+
 │
 ├── assets/
-
 │   ├── images/
-
 │   ├── fonts/
-
 │   └── icons/
-
 │
 ├── lib/
 │   ├── main.dart
