@@ -60,9 +60,13 @@ Copy
 flutter-ui-design/
 │
 ├── assets/
+
 │   ├── images/
+
 │   ├── fonts/
+
 │   └── icons/
+
 │
 ├── lib/
 │   ├── main.dart
