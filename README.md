@@ -84,3 +84,6 @@ flutter-ui-design/
 ```
 ### Modifications
 I made a modification to the app's search bar width for a better user experience. The search bar has been adjusted for improved usability and a more consistent look across different screen sizes.
+
+## NB
+The product card widget, I observed it is scrollable so I made it scroll horizontally.
