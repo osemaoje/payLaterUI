@@ -23,23 +23,26 @@ An IDE (like Visual Studio Code or Android Studio)
 
 Clone the repository to your local machine:
 
-
+```bash
 git clone https://github.com/osemaoje/payLaterUI.git
-
+```
 
 Navigate to the project directory:
-
+```bash
 cd new_flutter_ui_task
-
+```
 
 ### Install dependencies:
 
-
+```bash
 flutter pub get
+```
+
 Run the app:
 
-
+```bash
 flutter run
+```
 
 ### Run on a Specific Platform
 To run the app on a specific platform, use one of the following commands:
