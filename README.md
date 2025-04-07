@@ -59,7 +59,7 @@ Here’s a brief overview of the project structure:
 
 
 flutter-ui-design/
-
+```
 │
 ├── assets/
 │   ├── images/
@@ -80,5 +80,6 @@ flutter-ui-design/
 │
 ├── pubspec.yaml
 └── README.md
-Modifications
+```
+### Modifications
 I made a modification to the app's search bar width for a better user experience. The search bar has been adjusted for improved usability and a more consistent look across different screen sizes.
